@@ -18,7 +18,7 @@ highScore.textContent = localStorage.getItem('score');
  */
 const road = {};
 road.img = new Image(720, innerHeight);
-road.img.src = '../assets/road.png';
+road.img.src = './assets/road.png';
 road.img.onload = function () {
     ctx.drawImage(road.img, 0, 0);
 }
@@ -26,7 +26,7 @@ road.img.onload = function () {
  * player car data 
  */
 const playerData = {
-    src: '../assets/New_Vehicle Pack/Audi.png',
+    src: './assets/New_Vehicle Pack/Audi.png',
     width: 200,
     height: 200
 };
