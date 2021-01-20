@@ -26,7 +26,7 @@ road.img.onload = function () {
  * player car data 
  */
 const playerData = {
-    src: './assets/New_Vehicle Pack/Audi.png',
+    src: './assets/New_VehiclePack/Audi.png',
     width: 200,
     height: 200
 };
