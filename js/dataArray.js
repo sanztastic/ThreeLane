@@ -15,27 +15,27 @@ const imageData = [
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/Car.png',
+        'src': './assets/Car.png',
         'width': 200,
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/Mini_truck.png',
+        'src': './assets/Mini_truck.png',
         'width': 200,
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/Mini_van.png',
+        'src': './assets/Mini_van.png',
         'width': 200,
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/taxi.png',
+        'src': './assets/taxi.png',
         'width': 200,
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/truck.png',
+        'src': './assets/truck.png',
         'width': 260,
         'height': 260
     }

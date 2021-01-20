@@ -40,5 +40,5 @@ canvas{
    margin: 0 auto; 
    border-left: 50px solid rgb(88, 88, 88);
    border-right: 50px solid rgb(88, 88, 88);
-   flex: 3;
+   flex: 2;
 }
