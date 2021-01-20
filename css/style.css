@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgb(189, 187, 187);
+}
+.mainscreen{
+    width: 100%;
+    height: 100%;
+    background-color: seashell;
+}
+.score-div,.second-div{
+    flex: 1;
+    background-color: seashell;
+}
+h1{
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 25px;
+}
+/* .game-info.active{
+    display: block;
+}
+.game-info{
+    display: none;
+    width: 720px;
+    height: 600px;
+    background-color: rgba(41, 39, 39, 0.7);
+} */
+canvas{
+   top: 0;
+   margin: 0 auto; 
+   border-left: 50px solid rgb(88, 88, 88);
+   border-right: 50px solid rgb(88, 88, 88);
+   flex: 3;
+}
