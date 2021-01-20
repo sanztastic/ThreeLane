@@ -1,16 +1,16 @@
 const imageData = [
     {
-        'src': './assets/New_vehiclePack/Ambulance.png',
+        'src': './assets/Ambulance.png',
         'width': 200,
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/Police.png',
+        'src': './assets/Police.png',
         'width': 200,
         'height': 200
     },
     {
-        'src': './assets/New_vehiclePack/Black_viper.png',
+        'src': './assets/Black_viper.png',
         'width': 200,
         'height': 200
     },
